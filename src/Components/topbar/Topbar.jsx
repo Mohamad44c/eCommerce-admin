@@ -12,16 +12,16 @@ export default function Topbar() {
         <div className="topRight">
           <div className="topbarIconContainer">
             <NotificationsNone />
-            <span className="topIconBadge">2</span>
+            <span className="topIconBadge">60</span>
           </div>
           <div className="topbarIconContainer">
             <Language />
-            <span className="topIconBadge">2</span>
+            <span className="topIconBadge">34</span>
           </div>
           <div className="topbarIconContainer">
             <Settings />
           </div>
-          <img src="https://images.pexels.com/photos/1526814/pexels-photo-1526814.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="" className="topAvatar" />
+          <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.8Di5Xe-0ty58fzXIdk_2OQHaFj%26pid%3DApi&f=1" alt="avatar" className="topAvatar" />
         </div>
       </div>
     </div>

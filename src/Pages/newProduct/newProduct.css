@@ -14,13 +14,14 @@
 }
 
 .addProductItem > label {
-  color: gray;
+  color: #11468F;
   font-weight: 600;
   margin-bottom: 10px;
 }
 
 .addProductItem > input {
   padding: 10px;
+  
 }
 
 .addProductItem > select {
@@ -32,7 +33,7 @@
   padding: 7px 10px;
   border: none;
   border-radius: 10px;
-  background-color: darkblue;
+  background-color: #11468F;
   color: white;
   font-weight: 600;
   cursor: pointer;
